@@ -110,7 +110,7 @@ Tender analysis, opportunity assessment and bid support.
 
 The principle behind these systems is:
 
-**AI should operate through enterprise permissions, domain services, audit controls and human oversight — not around them.**
+**AI should operate through enterprise permissions, domain services, audit controls, and human oversight - not around them.**
 
 ---
 
