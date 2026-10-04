@@ -202,12 +202,12 @@ That background influences how I build software today.
 
 I tend to look beyond the application itself and think about the **users, infrastructure, security, operations, integrations, failure modes and business processes surrounding it**.
 
-Zunde Technologies represents that journey — turning practical experience of how organisations operate into interconnected enterprise software.
+Zunde Technologies represents that journey, turning practical experience of how organisations operate into interconnected enterprise software.
 
 ---
 
 ### 🔨 Currently Building
 
-**Zunde Technologies — Enterprise systems designed to work as one.**
+**Zunde Technologies; Enterprise systems designed to work as one.**
 
 **Current focus:** Production engineering • Zunde Inspector • AWS infrastructure • AI agents • platform automation
