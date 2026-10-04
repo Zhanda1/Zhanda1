@@ -2,7 +2,7 @@
 
 ### Founder & Lead Platform Developer at Zunde Technologies
 
-I'm a UK-based **software and platform engineer, technology professional and founder** building **Zunde Technologies** — an integrated enterprise software ecosystem designed to connect the operational lifecycle of an organisation through shared architecture, data, automation and intelligence.
+I'm a UK-based **software and platform engineer, technology professional and founder** building **Zunde Technologies** ; an integrated enterprise software ecosystem designed to connect the operational lifecycle of an organisation through shared architecture, data, automation and intelligence.
 
 My background spans **software engineering, IT infrastructure, systems, networking, enterprise support and people operations**, supported by more than 10 years of experience across technology and business environments.
 
