@@ -92,7 +92,7 @@ I use **PowerShell extensively for engineering automation**, environment inspect
 
 A major part of Zunde's direction is exploring how **large language models and AI agents can operate safely inside enterprise systems**.
 
-I'm particularly interested in AI that can understand organisational context, use software tools and APIs, analyse operational information and assist people in taking governed actions — rather than AI being limited to a chatbot interface.
+I'm particularly interested in AI that can understand organisational context, use software tools and APIs, analyse operational information and assist people in taking governed actions, rather than AI being limited to a chatbot interface.
 
 The emerging **Zunde Headless 360 AI** direction includes:
 
@@ -190,7 +190,7 @@ I'm interested in connecting with developers, engineers, architects, founders an
 
 Software engineering never really reaches a finished state.
 
-I'm continually developing my knowledge of **software architecture, distributed systems, cloud infrastructure, cybersecurity, artificial intelligence, AI agents, automation and enterprise platform engineering** — and applying that knowledge directly to real software and production engineering challenges.
+I'm continually developing my knowledge of **software architecture, distributed systems, cloud infrastructure, cybersecurity, artificial intelligence, AI agents, automation and enterprise platform engineering** , and applying that knowledge directly to real software and production engineering challenges.
 
 ---
 
