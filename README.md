@@ -164,7 +164,7 @@ I'm particularly interested in the intersection of:
 
 **Enterprise Software + AI Agents + Cloud Engineering + Automation + Governance + Operational Intelligence**
 
-I also see Zunde Inspector evolving toward increasingly intelligent engineering automation — helping software systems detect problems, understand their architecture and support controlled remediation.
+I also see Zunde Inspector evolving toward increasingly intelligent engineering automation; helping software systems detect problems, understand their architecture and support controlled remediation.
 
 ---
 
