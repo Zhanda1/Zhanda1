@@ -28,7 +28,7 @@ The goal is simple:
 
 ## 🏗️ Software & Platform Engineering
 
-I work across the full engineering lifecycle — from product and domain architecture through application development, infrastructure, deployment, troubleshooting and production readiness.
+I work across the full engineering lifecycle, from product and domain architecture through application development, infrastructure, deployment, troubleshooting and production readiness.
 
 The architecture behind Zunde follows several core principles:
 
