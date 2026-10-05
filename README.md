@@ -2,11 +2,11 @@
 
 ### Founder & Lead Platform Developer at Zunde Technologies
 
-I'm a UK-based **software and platform engineer, technology professional and founder** building **Zunde Technologies** ; an integrated enterprise software ecosystem designed to connect the operational lifecycle of an organisation through shared architecture, data, automation and intelligence.
+I'm a UK based **software and platform engineer, technology professional and founder** building **Zunde Technologies**, an integrated enterprise software ecosystem designed to connect the operational lifecycle of an organisation through shared architecture, data, automation and intelligence.
 
 My background spans **software engineering, IT infrastructure, systems, networking, enterprise support and people operations**, supported by more than 10 years of experience across technology and business environments.
 
-Today, my focus is building, deploying and evolving Zunde Technologies as a scalable, secure and increasingly AI-native enterprise platform.
+Today, my focus is building, deploying and evolving Zunde Technologies as a scalable, secure and increasingly AI native enterprise platform.
 
 ---
 
@@ -20,9 +20,11 @@ The operating chain currently spans:
 
 Together, these systems support the journey from **finding customers and winning contracts through project delivery, workforce deployment, people management, learning, payroll, finance, compliance, operational safety, transport and health services**.
 
-The goal is simple:
+Zunde is built around a simple idea:
 
 > **Enterprise systems designed to work as one.**
+
+Organisations should not need disconnected systems for every part of their operation. Zunde aims to connect applications, data and workflows so organisations can reduce administrative complexity, improve visibility, strengthen governance and make better operational decisions.
 
 ---
 
@@ -40,10 +42,10 @@ The architecture behind Zunde follows several core principles:
 - Shared capabilities belong in governed shared packages
 - Permissions and security controls are centralised
 - UI and design capabilities are reusable across products
-- Production changes are validated and evidence-driven
+- Production changes are validated and evidence driven
 - Architecture validation is part of the engineering lifecycle
 
-This allows individual Zunde applications to remain domain-focused while participating in a wider enterprise platform.
+This allows individual Zunde applications to remain domain focused while participating in a wider enterprise platform.
 
 ---
 
@@ -61,7 +63,7 @@ My engineering workflow increasingly follows:
 
 **Discover → Assess → Remediate → Rescan → Validate → Certify**
 
-This creates a foundation for increasingly automated and AI-assisted software engineering.
+This creates a foundation for increasingly automated and AI assisted software engineering.
 
 ---
 
@@ -71,7 +73,7 @@ Zunde has progressed beyond local application development into **cloud deploymen
 
 Current work includes:
 
-**AWS ECS/Fargate • Amazon ECR • CloudFront • Route 53 • Docker • private networking • MongoDB • health/readiness services • OpenTofu infrastructure-as-code • production diagnostics**
+**AWS ECS/Fargate • Amazon ECR • CloudFront • Route 53 • Docker • private networking • MongoDB • health/readiness services • OpenTofu infrastructure as code • production diagnostics**
 
 I use controlled deployment and remediation practices that include:
 
@@ -79,9 +81,9 @@ I use controlled deployment and remediation practices that include:
 - SHA-256 baseline verification
 - Explicit validation and safety gates
 - Production health and readiness checks
-- Root-cause analysis across application and infrastructure layers
+- Root cause analysis across application and infrastructure layers
 - Controlled infrastructure changes
-- Post-change validation
+- Post change validation
 - Repeatable engineering evidence
 
 I use **PowerShell extensively for engineering automation**, environment inspection, validation, controlled remediation and production certification.
@@ -92,25 +94,51 @@ I use **PowerShell extensively for engineering automation**, environment inspect
 
 A major part of Zunde's direction is exploring how **large language models and AI agents can operate safely inside enterprise systems**.
 
-I'm particularly interested in AI that can understand organisational context, use software tools and APIs, analyse operational information and assist people in taking governed actions, rather than AI being limited to a chatbot interface.
+I'm particularly interested in AI that can understand organisational context, use software tools and APIs, analyse operational information, support decisions and execute governed workflows, rather than AI being limited to a conversational interface.
 
 The emerging **Zunde Headless 360 AI** direction includes:
 
 **Zunde Command Agent**  
-Cross-platform operational and executive intelligence.
+Cross platform operational and executive intelligence.
 
 **Compliance Evidence Agent**  
 Compliance evidence gathering, assurance and gap identification.
 
 **Workforce Planning Agent**  
-Workforce capacity, staffing, skills and operational-risk intelligence.
+Workforce capacity, staffing, skills and operational risk intelligence.
 
 **Bid Intelligence Agent**  
 Tender analysis, opportunity assessment and bid support.
 
 The principle behind these systems is:
 
-**AI should operate through enterprise permissions, domain services, audit controls, and human oversight - not around them.**
+**AI should operate through enterprise permissions, domain services, audit controls and human oversight, not around them.**
+
+---
+
+## 💼 Products, Services & Business Solutions
+
+Alongside developing the Zunde product ecosystem, I'm interested in working with organisations that want to modernise operations, replace fragmented systems, automate complex workflows or introduce practical AI into their business.
+
+Areas where I can support organisations include:
+
+- Enterprise SaaS development
+- Custom software development
+- Application development
+- Cloud application development
+- Enterprise and IT consulting
+- Business process automation
+- Business analytics and operational intelligence
+- Cloud architecture and management
+- Information security and secure application architecture
+- Systems integration and implementation
+- Database and data architecture
+- AI integration and intelligent workflow design
+- Digital transformation and technology strategy
+
+The objective is not simply to build software. It is to understand the operational problem and determine how **software, data, cloud infrastructure, automation and AI** can work together to solve it.
+
+Zunde can support organisations through its own products as well as through **implementation, integration, technology partnerships and tailored solutions**.
 
 ---
 
@@ -126,11 +154,15 @@ The principle behind these systems is:
 
 ### Enterprise Engineering
 
-**Platform Architecture · Systems Design · API Design · Domain Architecture · Multi-Tenancy · RBAC · Security · Auditability · Infrastructure · Networking · CI/CD · Production Reliability**
+**Enterprise Software Architecture · Platform Engineering · Systems Design · API Design · Domain Architecture · Multi Tenancy · RBAC · Security · Auditability · Infrastructure · Networking · CI/CD · Production Reliability**
 
 ### AI Engineering
 
-**LLMs · AI Agents · Agentic Workflows · Context & Grounding · Tool/API Integration · Structured Outputs · Evaluation · Human-in-the-Loop Systems · AI Governance**
+**LLMs · AI Agents · Agentic Workflows · Context & Grounding · Tool/API Integration · Structured Outputs · Evaluation · Human in the Loop Systems · AI Governance**
+
+### Business & Transformation
+
+**SaaS · Business Process Automation · Business Analytics · Digital Transformation · Operational Intelligence · Systems Integration · Technology Strategy**
 
 ---
 
@@ -158,31 +190,34 @@ That philosophy is increasingly shaping both **Zunde Technologies and Zunde Insp
 
 ## 🎯 What I'm Building Towards
 
-My long-term goal is to build Zunde Technologies into an **AI-native enterprise operating platform** where traditionally separate business systems can work together through common architecture, governed data relationships and intelligent automation.
+My long term goal is to build Zunde Technologies into an **AI native enterprise operating platform** where traditionally separate business systems can work together through common architecture, governed data relationships and intelligent automation.
 
 I'm particularly interested in the intersection of:
 
 **Enterprise Software + AI Agents + Cloud Engineering + Automation + Governance + Operational Intelligence**
 
-I also see Zunde Inspector evolving toward increasingly intelligent engineering automation; helping software systems detect problems, understand their architecture and support controlled remediation.
+I also see Zunde Inspector evolving toward increasingly intelligent engineering automation, helping software systems detect problems, understand their architecture and support controlled remediation.
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Business, Partnerships & Collaboration
 
-I'm interested in connecting with developers, engineers, architects, founders and technology professionals working across:
+I'm interested in connecting with organisations that are:
 
-- Enterprise software engineering
-- AI agents and agentic systems
-- Platform engineering
-- Cloud and DevOps
-- SaaS architecture
-- Engineering automation
-- Cybersecurity
-- Compliance technology
-- Business process automation
-- Production reliability
-- Future-of-work platforms
+- Modernising legacy or fragmented business systems
+- Looking for integrated enterprise software
+- Automating manual or complex operational workflows
+- Improving workforce, project or financial visibility
+- Strengthening compliance and operational governance
+- Exploring practical applications of AI
+- Moving applications and services to cloud infrastructure
+- Building or modernising SaaS platforms
+- Looking for systems integration or implementation support
+- Seeking technology or implementation partnerships
+
+I welcome conversations with **potential customers, strategic partners, implementation partners, technology partners and organisations interested in Zunde Technologies products or tailored technology solutions**.
+
+If your organisation is exploring **enterprise software, digital transformation, cloud platforms, automation or AI enabled operations**, I'm interested in discussing where Zunde Technologies could add value.
 
 ---
 
@@ -190,7 +225,7 @@ I'm interested in connecting with developers, engineers, architects, founders an
 
 Software engineering never really reaches a finished state.
 
-I'm continually developing my knowledge of **software architecture, distributed systems, cloud infrastructure, cybersecurity, artificial intelligence, AI agents, automation and enterprise platform engineering** , and applying that knowledge directly to real software and production engineering challenges.
+I'm continually developing my knowledge of **software architecture, distributed systems, cloud infrastructure, cybersecurity, artificial intelligence, AI agents, automation and enterprise platform engineering**, and applying that knowledge directly to real software and production engineering challenges.
 
 ---
 
@@ -208,6 +243,10 @@ Zunde Technologies represents that journey, turning practical experience of how 
 
 ### 🔨 Currently Building
 
-**Zunde Technologies; Enterprise systems designed to work as one.**
+**Zunde Technologies: Enterprise systems designed to work as one.**
 
 **Current focus:** Production engineering • Zunde Inspector • AWS infrastructure • AI agents • platform automation
+
+### 🤝 Open to Business
+
+**Zunde products • SaaS development • custom software • cloud solutions • enterprise automation • AI integration • implementation partnerships • tailored technology solutions**
